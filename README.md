@@ -1,5 +1,5 @@
 # DataGen
-[배포 주소](datagenerator.co.kr/).
+[DataGen 사이트](datagenerator.co.kr/).
 
 
 ## 목적
